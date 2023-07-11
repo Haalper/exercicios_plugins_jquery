@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cor {
+    background-color: antiquewhite;
+    padding: 12px;
+}
+
+form label {
+font-weight: bold;
+display: block;
+margin-bottom: 5px;
+}
+
+form input {
+    margin-bottom: 12px;
+    padding: 3px
+}
+
+h1,
+form {
+    text-align: center;
+}
+
+h1 {
+    background-color: rgb(60, 116, 116);
+    padding: 12px;
+    margin-bottom: 10px;
+}
